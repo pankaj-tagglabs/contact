@@ -21,7 +21,7 @@ module.exports = {
   },
 
   // Name pronunciation. Set to null to leave out.
-  pronunciation: "https://btjanaka.net/static/btjanaka.mp3",
+  pronunciation: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadav.mp3",
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
