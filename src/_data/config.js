@@ -1,7 +1,7 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Contact Pankaj Yadav",
+  title: "Pankaj Yadav",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
