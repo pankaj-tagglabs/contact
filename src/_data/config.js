@@ -57,7 +57,14 @@ module.exports = {
       textColor: "text-website",
     },
     {
-      name: "Email",
+      name: "Work",
+      desc: "pankaj@tagglabs.in",
+      url: "mailto:pankaj@tagglabs.in",
+      fa: "fas fa-envelope",
+      textColor: "text-gray-600",
+    },
+     {
+      name: "Personal",
       desc: "mail@pankajyadav.me",
       url: "mailto:mail@pankajyadav.me",
       fa: "fas fa-envelope",
