@@ -77,6 +77,13 @@ module.exports = {
       fa: "fab fa-linkedin",
       textColor: "text-linkedin",
     },
+       {
+      name: "Instagram",
+      desc: "@pankajsinghyadav",
+      url: "https://www.instagram.com/pankajyadav.eth/",
+      fa: "fab fa-instagram",
+      textColor: "text-instagram",
+    },
     {
       name: "Save Contact",
       url: "https://d35hr0os3yc7ki.cloudfront.net/pankajcontact.vcf",
