@@ -79,7 +79,7 @@ module.exports = {
     },
        {
       name: "Instagram",
-      desc: "@pankajsinghyadav",
+      desc: "@pankajyadav.eth",
       url: "https://www.instagram.com/pankajyadav.eth/",
       fa: "fab fa-instagram",
       textColor: "text-instagram",
