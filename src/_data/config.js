@@ -16,8 +16,8 @@ module.exports = {
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
-    best: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
-    small: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    best: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadav.JPG",
+    small: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadav.JPG",
   },
 
   // Name pronunciation. Set to null to leave out.
@@ -31,13 +31,13 @@ module.exports = {
   // that sites like FB change their preview. Set to null to leave out.
   openGraph: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadav.JPG",
   },
 
   // Path to Twitter preview image. Set to null to leave out.
   twitterPreview: {
     absolute: true,
-    url: "https://d35hr0os3yc7ki.cloudfront.net/ContactCard_1000x1000.jpeg",
+    url: "https://d35hr0os3yc7ki.cloudfront.net/PankajYadav.JPG",
   },
 
   // Links to your other websites.
